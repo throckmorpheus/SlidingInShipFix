@@ -1,9 +1,9 @@
 {
   "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
-  "filename": "ShipPhysicsFixes.dll",
+  "filename": "SlidingInShipFix.dll",
   "author": "Throckmorpheus",
   "name": "Sliding In Ship Fix",
-  "uniqueName": "Throckmorpheus.ShipPhysicsFixes",
+  "uniqueName": "Throckmorpheus.SlidingInShipFix",
   "version": "0.1.0",
   "owmlVersion": "2.13.0",
   "dependencies": []

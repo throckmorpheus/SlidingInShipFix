@@ -4,7 +4,7 @@ using OWML.ModHelper;
 using System;
 using System.Reflection;
 
-namespace ShipPhysicsFixes;
+namespace SlidingInShipFix;
 
 public class ModMain : ModBehaviour
 {
@@ -22,7 +22,7 @@ public class ModMain : ModBehaviour
 
 	public void Start()
 	{
-		Console.WriteLine($"{nameof(ShipPhysicsFixes)} is loaded!", MessageType.Success);
+		Console.WriteLine($"{nameof(SlidingInShipFix)} is loaded!", MessageType.Success);
 
 		new Harmony("Throckmorpheus.ShipPhysicsFixes").PatchAll(Assembly.GetExecutingAssembly());
 	}

@@ -23,6 +23,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="ShipPhysicsFixes.csproj.user" />
+    <Content Include="SlidingInShipFix.csproj.user" />
   </ItemGroup>
 </Project>
